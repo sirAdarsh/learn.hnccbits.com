@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation"
+title: "Start Learning"
 linkTitle: "Documentation"
 weight: 20
 menu:
@@ -9,16 +9,20 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+The flow of this site is in a tree direction. Happy Learning :)
 {{% /pageinfo %}}
 
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+Welcome to Learn, the wiki for HnCC. This is a community driven platform for newbies, programmers, hackers, novices in their field. You will find a curated list of resources to start getting your hands dirty in any type of skill from design to development.
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+You will also find tutorials, guides, hacking DIYs and pretty much everything that you might need to initiate yourself in this field. 
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+**If you are interested, you can read our journey of starting this site [here](#) .**
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Follow us at : 
+
+If you want us or yourself to add any new page here or you can create a Pull Request/ Issue [here](https://github.com/hnccbits/learn.hnccbits.com) or mail/contact [contact(at)hnccbits.com](mailto:hnccbits@gmail.com) or, [Suraj](https://www.linkedin.com/in/suraj-sloth/).
+
+Other content such as case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
 
 

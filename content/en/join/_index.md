@@ -8,7 +8,8 @@ menu:
 ---
 <br><br><br>
 <center>
-<h1 style="font-weight: 600;">Join Our Team</h1><br>
+<h1 style="font-weight: 600;">Join Our Team</h1>
+We are a constantly evolving Open Source Club.<br><br><br>
 </center>
 
 <div class="row">
