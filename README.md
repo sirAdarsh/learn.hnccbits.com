@@ -1,5 +1,5 @@
-# Docsy Example
-
+# HnCC Learn
+<!--
 [Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
 
 This Docsy Example Project is hosted at [https://example.docsy.dev/](https://example.docsy.dev/).
@@ -7,16 +7,38 @@ This Docsy Example Project is hosted at [https://example.docsy.dev/](https://exa
 You can find detailed theme instructions in the Docsy user guide: https://docsy.dev/docs/
 
 This is not an officially supported Google product. This project is currently maintained.
+-->
 
-## Cloning the Docsy Example Project
+
+
+HnCC Learn is a curated list for the community to learn anything from design to devleopment. The resources/content is community maintained. Anyone can contribute to this project.
+
+HnCC Learn is by the community for the community.
+
+
+## Cloning the HnCC Learn (Docsy Example) Project
 
 The following will give you a project that is set up and ready to use (don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site). The `hugo server` command builds and serves the site. If you just want to build the site, run `hugo` instead.
 
+To install Hugo :
+- Linux: Try with your custom package manager (apt, pacman, yu etc) or [Homebrew on linux](https://gohugo.io/getting-started/installing/)
+
+- Windows : Follow the official [guide](https://gohugo.io/getting-started/installing/)
+
+- macOS : Follow the official [guide](https://gohugo.io/getting-started/installing/)
+
+```bash
+git clone --recurse-submodules --depth 1 https://github.com/hnccbits/learn.hnccbits.com.git
+cd learn.hnccbits.com
+hugo server
+```
+<!--
 ```bash
 git clone --recurse-submodules --depth 1 https://github.com/google/docsy-example.git
 cd docsy-example
 hugo server
 ```
+-->
 
 The theme is included as a Git submodule:
 
