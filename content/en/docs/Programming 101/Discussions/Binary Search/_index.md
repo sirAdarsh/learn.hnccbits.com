@@ -1,6 +1,6 @@
 ---
-title: "Programming 101"
-linkTitle: "Programming 101"
+title: "D-BS-01 (Beginner)"
+linkTitle: "D-BS-01 (Beginner)"
 weight: 1
 description: >
   For absolute beginners in the programming field. Fundamentals and the mindset.
