@@ -1,4 +1,4 @@
-# HnCC Learn
+# HnCC Learn (hLearn)
 <!--
 [Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
 
@@ -11,7 +11,7 @@ This is not an officially supported Google product. This project is currently ma
 
 
 
-HnCC Learn is a curated list for the community to learn anything from design to devleopment. The resources/content is community maintained. Anyone can contribute to this project.
+HnCC Learn(hLearn) is a curated list for the community to learn anything from design to devleopment. The resources/content is community maintained. Anyone can contribute to this project.
 
 HnCC Learn is by the community for the community.
 
@@ -78,3 +78,9 @@ Once you've cloned the site repo, from the repo root folder, run:
 ```
 hugo server
 ```
+**If you are interested, you can read our journey of starting this site [here](#) .**
+
+Maintainers:    
+- [Suraj Kumar Mahto](https://github.com/suraj-sloth)
+
+With ❤︎ from HnCC Web Team.
